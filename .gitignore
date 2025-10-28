@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.whl
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# VS Code
+.vscode/
+.settings/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Data and logs
+*.log
+*.csv
+*.tsv
+*.dat
+*.db
+*.sqlite3
+*.h5
+*.pth
+*.ckpt
+*.pt
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test and coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Misc
+*.bak
+*.swp
+*.tmp
+*.orig
+
+# Git
+.git/
