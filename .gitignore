@@ -16,6 +16,7 @@ build/
 .ipynb_checkpoints/
 *.nbconvert.ipynb
 sydsgpt-nb.txt
+sydsgpt-nb.html
 
 # VS Code
 .vscode/
