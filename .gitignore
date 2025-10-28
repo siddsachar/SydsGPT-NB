@@ -15,7 +15,7 @@ build/
 # Jupyter Notebooks
 .ipynb_checkpoints/
 *.nbconvert.ipynb
-sydsgpt-nb.asciidoc
+sydsgpt-nb.txt
 
 # VS Code
 .vscode/
